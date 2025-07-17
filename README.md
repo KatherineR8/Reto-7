@@ -1,5 +1,4 @@
-# Reto-7
-# Reto 6 POO
+# Reto 7 POO
 ### Katherine Restrepo
 
 ##### The restaurant class revisted like for the third time.
